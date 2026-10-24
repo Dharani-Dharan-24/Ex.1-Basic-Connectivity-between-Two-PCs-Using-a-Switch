@@ -12,7 +12,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="555" height="292" alt="image" src="https://github.com/user-attachments/assets/43fedd28-7b6c-494d-9a71-b1705d663f62" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/e204eab2-8caa-44f3-9734-44230a8c4345" />
+
 
 
 ________________________________________
