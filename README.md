@@ -11,7 +11,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/e204eab2-8caa-44f3-9734-44230a8c4345" />
+<img width="1017" height="615" alt="image" src="https://github.com/user-attachments/assets/e204eab2-8caa-44f3-9734-44230a8c4345" />
 
 
 
@@ -41,8 +41,8 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-<img width="932" height="637" alt="image" src="https://github.com/user-attachments/assets/23591d0b-66aa-4077-85d3-ebe162e0730f" />
-<img width="860" height="542" alt="image" src="https://github.com/user-attachments/assets/f7c82a65-a24c-45ea-8ef1-dd8ea354eb3d" />
+<img width="632" height="337" alt="image" src="https://github.com/user-attachments/assets/23591d0b-66aa-4077-85d3-ebe162e0730f" />
+<img width="560" height="342" alt="image" src="https://github.com/user-attachments/assets/f7c82a65-a24c-45ea-8ef1-dd8ea354eb3d" />
 
 ________________________________________
 # Result
